@@ -1,0 +1,1 @@
+This repository contains all the model, data and code files used for the publication "Modeling of spectral induced-polarization measurements on cm-sized metallic spheres in sand-water mixtures" (D. Kreith et al., 2025), submitted to Geophysical Journal International.
