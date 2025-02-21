@@ -87,4 +87,4 @@ ax[0,1].set_title("(c)", loc="left")
 ax[1,1].set_title("(d)", loc="left")
 
 fig.tight_layout()
-fig.savefig("figure_09", dpi=300)
+fig.savefig("figure_09.pdf", dpi=300)

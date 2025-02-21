@@ -102,4 +102,4 @@ ax["specim"].set_xlabel("$\u03C9$ [rad/s]")
 ax["specim"].set_ylabel("$\u03C3''/\u03C3_w$ [-]")
 fig.tight_layout()
 
-fig.savefig("figure_07.png", dpi=300)
+fig.savefig("figure_07.pdf", dpi=300)

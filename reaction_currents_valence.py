@@ -276,4 +276,4 @@ ax[1,1].set_xlabel("$c_3 / c_0$ [-]")
 ax[1,1].set_ylabel("$\u03C3_{max}''/\u03C3_w$ [-]")
 fig.tight_layout()
 
-fig.savefig("figure_08.png", dpi=300)
+fig.savefig("figure_08.pdf", dpi=300)
