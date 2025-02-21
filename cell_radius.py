@@ -142,7 +142,7 @@ ax1["m"].legend(["Original spectra", "Re-scaled spectra"])
 
 fig1.tight_layout()
 
-fig1.savefig("Figure_02.pdf",dpi=300,bbox_inches="tight")
+fig1.savefig("Figure_02.png",dpi=300,bbox_inches="tight")
 
 nu = np.logspace(np.log10(nu_nonreg[0]), np.log10(nu_nonreg[-1]))
 
@@ -159,4 +159,4 @@ ax2.set_ylabel("$m [-]$")
 
 fig2.tight_layout()
 
-fig2.savefig("Figure_03.png",dpi=300,bbox_inches="tight")
+fig2.savefig("figure_03.pdf",dpi=300,bbox_inches="tight")
